@@ -1,5 +1,4 @@
 import {BsFilterRight} from 'react-icons/bs'
-
 import './index.css'
 
 const ProductsHeader = props => {
